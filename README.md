@@ -6,7 +6,7 @@
 
 ---
 
-## 0. Escopo da v1
+## 0. Escopo da V1
 
 | Módulo | O que entrega |
 |---|---|
