@@ -757,7 +757,7 @@ Versões: **Java 21 (LTS)** e a versão estável mais recente do Spring Boot 3.x
 
 **Por que o cartão fica por último:** ele toca `Transaction`, `Dashboard`, `Account` e `Goal` ao mesmo tempo. Se atrasar, não trava o resto do v1.
 
-Enquanto a autenticação (fase 1) não existe, o Breno pode testar `Goal`/`Simulation` com um `userId` fixo **apenas no perfil `dev`**.
+Enquanto a autenticação (fase 1) não existe, podem testar `Goal`/`Simulation` com um `userId` fixo **apenas no perfil `dev`**.
 
 ---
 
